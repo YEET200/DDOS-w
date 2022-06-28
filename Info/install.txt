@@ -1,0 +1,3 @@
+###INstall###
+Install on Kali Linux and run the command ```python start.py```
+and then make sure beforhand that you get the ```ssh.py``` Has the host and Password otherwise it wont work
